@@ -1,0 +1,13 @@
+# Instalacion
+
+Instalar las dependencias del fichero requirements.txt
+
+'''
+pip install -r requirements.txt
+'''
+
+Duplicar el fichero '.env_template' y renombrar a '.env'
+
+Los valores deen ser:
+- FLASK_APP=run.py
+FLASK_ENV=el que querais
